@@ -1,6 +1,6 @@
-# SocialSpring
+# Social-Network
 
-A learning-focused social networking application built with Java 21, Spring Boot 3.5.16, MySQL, Thymeleaf, Spring Security, JPA/Hibernate and STOMP/WebSocket.
+A social networking application built with Java 21, Spring Boot 3.5.16, MySQL, Thymeleaf, Spring Security, JPA/Hibernate and STOMP/WebSocket.
 
 ## Features
 
