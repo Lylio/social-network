@@ -2,6 +2,19 @@
 
 A social networking application built with Java 21, Spring Boot 3.5.16, MySQL, Thymeleaf, Spring Security, JPA/Hibernate and STOMP/WebSocket.
 
+### Tech Stack
+
+| Component    | Tech                                                                                                                                                                                                             |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| App Link     | ![offline](https://img.shields.io/badge/offline-bf2424)                                                                                                                                                     |                                                                                                                                                                                                                                                                                               
+| Frontend     | ![JavaFX](https://img.shields.io/badge/%E2%80%8E%20-JavaFX-orange?logo=coffeescript&logoColor=white)                                                                                               |
+| Backend      | ![Java](https://img.shields.io/badge/JAVA%20-JDK%2021-green?style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/spring%20boot%20-white.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)|
+| Database     | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                     |
+| Cloud        | ![offline](https://img.shields.io/badge/offline-bf2424)                                                                                                        |
+| Client Build | ![NPM](https://img.shields.io/badge/npm-white.svg?style=for-the-badge&logo=npm&logoColor=CB3837)               |                                                                                                                                                                                                                                                                                               
+| Server Build | ![Maven](https://img.shields.io/badge/maven-white.svg?style=for-the-badge&logo=apache%20maven&logoColor=C71A36)                                                                                                  |
+| Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/office-vpn?style=for-the-badge)                                                                                                                  |
+
 ## Features
 
 - Registration and form-based login
