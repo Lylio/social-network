@@ -13,7 +13,7 @@ A social networking application built with Java 21, Spring Boot 3.5.16, MySQL, T
 | Cloud        | ![offline](https://img.shields.io/badge/offline-bf2424)                                                                                                        |
 | Client Build | ![NPM](https://img.shields.io/badge/npm-white.svg?style=for-the-badge&logo=npm&logoColor=CB3837)               |                                                                                                                                                                                                                                                                                               
 | Server Build | ![Maven](https://img.shields.io/badge/maven-white.svg?style=for-the-badge&logo=apache%20maven&logoColor=C71A36)                                                                                                  |
-| Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/office-vpn?style=for-the-badge)                                                                                                                  |
+| Repo Size    | ![Repo Size](https://github.com/Lylio/social-network/tree/main)                                                                                                                  |
 
 ## Features
 
