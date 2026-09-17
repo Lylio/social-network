@@ -13,6 +13,7 @@ A social networking application built with Java 21, Spring Boot 3.5.16, MySQL, T
 | Cloud        | ![offline](https://img.shields.io/badge/offline-bf2424)                                                                                                        |
 | Client Build | ![NPM](https://img.shields.io/badge/npm-white.svg?style=for-the-badge&logo=npm&logoColor=CB3837)               |                                                                                                                                                                                                                                                                                               
 | Server Build | ![Maven](https://img.shields.io/badge/maven-white.svg?style=for-the-badge&logo=apache%20maven&logoColor=C71A36)                                                                                                  |
+| Spring Security | ![Spring Security]([https://img.shields.io/badge/maven-white.svg?style=for-the-badge&logo=apache%20maven&logoColor=C71A36](https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge&logo=spring-security&logoColor=white))                                                                                                  |
 
 ## Features
 
